@@ -1,0 +1,47 @@
+
+Herramientas:
+
+	-Llave fija impresa 10 (M6) - 13 (M8) - 17 (M10) 
+	-Soporte filamento derecha
+	-Soporte filamento izquierda
+	-Soporte filamento unión
+
+Electrónica:
+
+	-Soporte LCD
+	-Bisagra LCD
+	-Soporte Ramps
+	-Soporte ventilador
+
+Extrusor:
+
+	-Seguridad Hot End
+
+Eje X:
+
+	-Eje X carro A
+	-Eje X carro B
+	-Polea Eje X rodamiento B623ZZ
+	-Eje X derecha
+	-Eje X tensor Rodamiento B623ZZ
+	-Eje X izquierda
+	-Eje X acople cadeneta izquierda
+	-Eje X final carrera
+
+Eje Y:
+
+	-Polea Eje Y rodamiento B623ZZ
+	-Eje Y sujeta correa
+	-Eje Y tensor rodamiento B623ZZ
+	-Eje Y motor
+	-Eje Y esquina
+	-Eje Y final carrera base
+	-Eje Y final carrera marco
+
+Eje Z:
+
+	-Eje Z soporte superior
+	-Eje Z soporte inferior derecha
+	-Eje Z final carrera
+	-Eje Z soporte inferior izquierda
+
