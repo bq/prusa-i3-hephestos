@@ -1,2 +1,70 @@
 BOM Prusa i3 Hephestos
 ======================
+
+
+-----------Name------------------------------------------------------Quantity--
+
+Allen key s/long Ø 2mm	                                                 1
+ALLEN KEY S/LONG Ø2,5 FORUM	                                         1
+Ceramic screw driver trimmer for electronics	                         1
+Precision Needle 0.4mm diameter	                                         2
+Printed tools: spanner and holder	                                 1
+Ramps 1.4 Kit	                                                         1
+Stepstick Drivers A49988 4 layers	                                 4
+Mechanical Endstop	                                                 3
+Smart LCD Controller	                                                 1
+USB Cable 1.8m A-B	                                                 1
+4 wire red blue green black (1 meter) for RAMPS	                         4
+Nema 17 48 mm sin conector 42BYGHW811	                                 4
+bq Direct Drive Extruder wiring kit 150 cm length	                 1
+Bi-colour wire 2 x 1,5 mm	                                         0,15
+AC/DC Power Adaptor SA1208 - 12V DC - 8A with 2.1mm Jack Connector	 1
+SCHURTER 6003.0215 - Cable;	                                         1
+2.1mm female Jack connector to two wires clam	                         1
+Printed support for lcd, ramps and fan	                                 1
+Tornillo M3x12 Screw - DIN-912 8.8 Class Black	                         4
+M3 Nut - DIN 934 Class 8 Black	                                         38
+Heat shrink tube 2.5 x 500 mm	                                         0,5
+Black bridle 100 x 2.5 mm	                                         28
+Brushless DC Cooling Fan - RD5010B12H	                                 1
+Plastic Drag Chain Link 15x35 mm	                                 52
+Marcha Direct Drive Extruder 1.75mm 0.4mm for RepRap Printers	         1
+Witbox extruder Support for Prusa i3	                                 1
+Tornillo M4 x 6 Din 7984	                                         2
+M3x10 Screw - DIN-912 Class 8.8 Black	                                 35
+Tornillo M3 x16 Screw - DIN-912 8.8 Class Black	                         8
+M3x18 Screw - DIN-912 Class 8 Black	                                 2
+Ø8X370MM-CROMAD Smooth rod	                                         2
+M3x20 Screw - DIN-912 Class 8 Black	                                 9
+Tornillo M3x25 Screw - DIN-912 8.8 Class Black	                         8
+M6x40 Screw - DIN-912 Class 8.8 Black	                                 1
+M5 Nut - DIN 934 Class 8 Black	                                         4
+M6 Nut - DIN 934 Class 8 Black	                                         3
+Printed x axis for Prusa i3	                                         1
+Axial Ball Bearing 623zz	                                         2
+GT2 Pulley 20 dientes	                                                 2
+GT2 Timing Belt 6mm	                                                 2
+Linear Ball Bearing LM8uu	                                         10
+Ø8X340MM-CROMAD Smooth rod	                                         2
+M10X370MM-NE Threaded rod	                                         2
+M8X205MM Black transversal rod	                                         4
+M8 Nut - DIN 934 Class 8 Black	                                         22
+M10 Nut - DIN 934 Class 8 Black	                                         12
+M8 Washer - DIN-125 Class 6 Black	                                 22
+M10 Washer - DIN-125 Class 6 Black	                                 12
+Printed y axis for Prusa i3	7
+Aluminium Prusa i3 Frame and Bed 6mm black	1
+22 x 22 x 10 mm acrylic printing bed for RepRap Printers	1
+Standard Spring 30.5x4.5x0.45	4
+Black binder clip	4
+Ø8X320MM-CROMAD Smooth rod	2
+M5X300MM-NE Threaded rod	2
+Aluminium Flexible Shaft Coupling 5to5	2
+Printed z axis for Prusa i3	
+Glass 3mm 220x220 4EC 20x20	1
+Jumper Wire (3 wires) with connectors – 40 cm	2
+Jumper Wire (3 wires) with connectors – 85 cm	1
+Hot End security	1
+M10  Serrated Nut DIN 6923 Class 8 black	4
+M10 Washer DIN 9021 Black (outter diameter 30mm)	4
+Wire ferrule 1,5mm	4
