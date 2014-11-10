@@ -3,7 +3,7 @@ HEADER;
 FILE_DESCRIPTION(('FreeCAD Model'),'2;1');
 FILE_NAME(
 '/home/obijuan/development/prusa-i3-hephestos/step/x-axis-motor-end.stp'
-  ,'2014-11-05T18:49:45',('FreeCAD'),('FreeCAD'),
+  ,'2014-11-10T11:28:06',('FreeCAD'),('FreeCAD'),
   'Open CASCADE STEP processor 6.7','FreeCAD','Unknown');
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN_CC2 { 1 2 10303 214 -1 1 5 4 }'));
 ENDSEC;
