@@ -12,7 +12,7 @@ Prusa i3 Hephestos is licensed under a [Creative Commons Attribution-ShareAlike 
 Firmware
 ===================
 
-Firmware: https://github.com/bq/Marlin/tree/v1.3.1_hephestos
+Firmware: https://github.com/bq/Marlin/tree/v1.4_hephestos
 
 Attributions
 ============
